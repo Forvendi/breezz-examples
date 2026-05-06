@@ -1,2 +1,2 @@
 # boost-examples
-Boost Framework examples
+Breezz Framework examples
